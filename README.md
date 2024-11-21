@@ -20,6 +20,7 @@
 [![Reddit](https://img.shields.io/badge/reddit-%2Fr%2Fwikijs-orange?logo=reddit&logoColor=white)](https://www.reddit.com/r/wikijs/)
 
 ##### A modern, lightweight and powerful wiki app built on NodeJS
+## By Mudassir Alam
 
 </div>
 
